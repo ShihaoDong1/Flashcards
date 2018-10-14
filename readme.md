@@ -5,7 +5,7 @@ My first flashcard app that can display the answer to the question that is on di
 
 ### App Walk-though
 
-<img src=http://recordit.co/jAjqeqz84Zwidth=200><br>
+<img src="http://recordit.co/jAjqeqz84Z" width=200><br>
 
 
 ## Required
