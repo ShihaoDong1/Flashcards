@@ -7,7 +7,6 @@ My first flashcard app that can display the answer to the question that is on di
 
 <img src="http://g.recordit.co/jAjqeqz84Z.gif" width=200><br>
 
-
 ## Required
 - [X] Create New Project in Xcode
 - [X] Add a view for the front side of the flashcard to display the question
